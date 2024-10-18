@@ -16,3 +16,9 @@
     height: 15px;
     position: absolute;
 }
+
+@media screen and (max-width: 640px) {
+    .container {
+        display: none;
+    }
+}
